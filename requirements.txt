@@ -1,0 +1,10 @@
+flask
+gunicorn
+line-bot-sdk
+requests
+pandas
+yfinance
+beautifulsoup4
+APScheduler
+python-dotenv
+gunicorn

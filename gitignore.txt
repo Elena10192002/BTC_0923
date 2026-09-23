@@ -1,0 +1,23 @@
+# 私密資訊
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 虛擬環境
+.venv/
+.venv_old/
+venv/
+
+# VS Code / Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# 本機 SQLite
+user_settings.db
+*.db
+
+# 系統檔案
+.DS_Store
+Thumbs.db
