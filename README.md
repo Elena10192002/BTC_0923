@@ -1,4 +1,4 @@
-# ₿ BTC AI 智能投資資訊助手
+<h1 align="center">₿ BTC AI 智能投資資訊助手</h1>
 
 <p align="center">
   <b>Bitcoin AI Investment Information Assistant</b><br>
