@@ -1008,55 +1008,6 @@ RSI14
 
 ---
 
-# 🔮 Future Work
-
-- [ ] AWS / GCP 正式部署
-- [ ] Docker 容器化
-- [ ] Cloud Database
-- [ ] Binance WebSocket 即時行情
-- [ ] ETH / SOL 等更多幣種
-- [ ] 更多量化交易策略
-- [ ] 不同 DCA 月數比較
-- [ ] 不同均線參數比較
-- [ ] 不同交易成本情境
-- [ ] 回測 Equity Curve 圖表
-- [ ] Portfolio Analysis
-- [ ] 鏈上數據
-- [ ] ETF 資金流
-- [ ] Fear & Greed Index
-- [ ] Web Dashboard
-- [ ] 使用者偏好學習
-- [ ] n8n 自動化工作流
-- [ ] Cloud-native Scheduler
-
----
-
-# 👥 Team
-
-## 楊才誼
-
-- 串接 Binance、CoinGecko、yfinance 等資料來源
-- 建置 MA20 / MA60、RSI、MACD 與量化回測
-- 建立 Gemini AI Agent 與金融分析 Skills
-- 串接 LINE Bot 自然語言互動式問答
-- 建立使用者個人化設定與 SQLite 儲存
-
-## 梁宗祺
-
-- 定時市場資訊推播與自訂價格警報
-- 監測短時間與 24H 劇烈波動
-- 導入 MA5 / MA20、RSI 與成交量異常監測
-- 讀取個人化提醒條件並觸發 LINE 通知
-- 製作推播視覺化與自動化排程流程
-
-### 共同負責
-
-- 系統模組整合與測試
-- 雲端部署與服務運行測試
-- 最終內容製作與確認
-
----
-
 # ⚠️ Disclaimer
 
 本專案僅供：
