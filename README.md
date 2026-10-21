@@ -899,18 +899,4 @@ RSI14
 
 # 📜 License
 
-目前專案以學習、作品集與專題展示用途為主。
-
-若未來公開成為開源專案，可加入：
-
-```text
-MIT License
-```
-
-或其他合適的開源授權。
-
----
-
-<p align="center">
-  Made with Python 🐍 + LINE 💬 + Bitcoin ₿ + Gemini 🤖
-</p>
+目前專案僅以學習、作品集與專題展示用途為主。
